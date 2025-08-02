@@ -1,7 +1,7 @@
 # Copyright 2021 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-name: "Build tukon"
+name: "Build Kamo Corne"
 on: workflow_dispatch
 jobs:
   build:
@@ -9,4 +9,4 @@ jobs:
     secrets: inherit
     with:
       board: '["nice_nano_v2"]'
-      shield: '["tukon_left", "tukon_right"]'
+      shield: '["kamo_corne_mx_left", "kamo_corne_mx_right"]'

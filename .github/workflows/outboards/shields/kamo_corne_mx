@@ -2,6 +2,6 @@
 # https://github.com/manna-harbour/miryoku
 
 outboard_repository=fouf96/zmk-config
-outboard_ref=vanilla
-outboard_from=boards/shields/tukon
-outboard_to=boards/shields/tukon
+outboard_ref=corne
+outboard_from=boards/shields/kamo_corne_mx
+outboard_to=boards/shields/kamo_corne_mx

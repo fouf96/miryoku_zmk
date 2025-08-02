@@ -15,7 +15,7 @@
 
 #include "miryoku.h"
 
-#include <dt-bindings/zmk/mouse.h>
+#include <dt-bindings/zmk/pointing.h>
 
 / {
   keymap {
