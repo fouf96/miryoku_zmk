@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=fouf96/zmk-config
+outboard_ref=corne
+outboard_from=boards/shields/kamo_corne_mx
+outboard_to=boards/shields/kamo_corne_mx
