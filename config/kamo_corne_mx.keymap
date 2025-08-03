@@ -4,6 +4,5 @@
 #define MIRYOKU_ALPHAS_QWERTY
 
 #include "../miryoku/custom_config.h"
-#include "../miryoku/mapping/42/corne.h"
+#include "../miryoku/mapping/44/kamo_corne_mx.h"
 #include "../miryoku/miryoku.dtsi"
-
